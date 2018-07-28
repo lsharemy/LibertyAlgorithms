@@ -1,0 +1,18 @@
+Total P3D token supply	3,995,555.2301 P3D (ATH 4,002,895.5863 P3D at 2018-07-28 10:07:05)
+Total ETH in contract	85,304.1745 ETH (ATH 85,449.012 ETH at 2018-07-28 10:07:46)
+ETH in tokens	79,822.8196 ETH (ATH 80,116.3774 ETH at 2018-07-28 10:07:05)
+ETH in rewards	5,481.3549 ETH (ATH 15,735.1311 ETH at 2018-07-23 03:46:44)
+Total ETH ever invested	174,026.7538 ETH
+Total ETH ever reinvested	15,016.2218 ETH
+Total ETH ever withdrawn	100,328.8273 ETH
+Total ETH ever paid out to P3D holders	39,687.855 ETH
+Total ETH ever paid out to P3D holders in rewards	34,994.238 ETH
+Total ETH ever paid out to P3D holder masternodes	4,693.617 ETH
+Total ETH ever paid out through bridge contract	11,606.248 ETH
+Total P3D tokens ever purchased	8,268,147.1913 P3D
+Total P3D tokens ever purchased through reinvestment	685,455.5462 P3D
+Total P3D tokens ever sold	4,263,378.3596 P3D
+Total P3D tokens ever transferred	92,136.0158 P3D
+Current buy price	0.0444 ETH (ATH 0.0445 ETH at 2018-07-28 10:07:05)
+Current sell price	0.036 ETH (ATH 0.036 ETH at 2018-07-28 10:07:05)
+Max buy transaction	7,500 ETH from address 0xe4a8dfca175cdca4ae370f5b7aaff24bd1c9c8ef at 2018-07-21 20:48:54
